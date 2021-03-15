@@ -14,5 +14,5 @@ To run the code, please follow the following steps:
 - source venv_network/bin/activate
 6. Set working directory to src folder: 
 - cd src
-7.  run the script: python network_analysis.py
+7.  run the script: python network.py
 - To see arguments and a detailed guide on what to specify, type: python network_analysis.py -h.
