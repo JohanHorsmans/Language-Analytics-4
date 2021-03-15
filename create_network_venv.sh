@@ -11,7 +11,7 @@ pip install jupyter
 
 python -m ipykernel install --user --name=$VENVNAME
 
-test -f requirements_network.txt && pip install -r requirements.txt
+test -f requirements.txt && pip install -r requirements.txt
 
 deactivate
 echo "build $VENVNAME"
