@@ -2,8 +2,8 @@
 
 Here is the code for my assignment:
 
-To run the code, please follow the following steps:
-1. Clone the reposioty to a folder of your choice on worker2: 
+To run the code, please follow the following steps from the commandline:
+1. Clone the reposioty to a folder of your choice on worker02: 
 - cd {folder of you choice}
 - git clone https://github.com/JohanHorsmans/Language-Analytics-4
 2. Set your working directory to the newly created repository:
